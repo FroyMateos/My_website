@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;800&family=Work+Sans&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@600&display=swap');
 
 
 *{
@@ -468,7 +468,7 @@ h3.hello{
     color: var(--letters-color);
 }  
 h3.hello span{
-    font-family: 'Architects Daughter', cursive;
+    font-family: 'Rajdhani', sans-serif;
     font-size: 40px;
     font-weight: 700;
     color: var(--text-color);
@@ -482,7 +482,7 @@ h3.my-profession{
 }
 .typing{
     color: var(--text-color);
-    font-family: 'Architects Daughter', cursive;
+   font-family: 'Rajdhani', sans-serif;
     font-size: 35px;
 }
 .home-info p{
@@ -569,7 +569,7 @@ h3.my-profession{
 }
 .skill .skill-content .skill-text h3 span{
     color: var(--text-color);
-    font-family: 'Architects Daughter', cursive;
+    font-family: 'Rajdhani', sans-serif;
     letter-spacing: 1px;
 }
 .skill .skill-content .skill-text p{
